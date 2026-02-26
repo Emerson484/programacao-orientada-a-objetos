@@ -1,3 +1,4 @@
+//objetivo simular uma Aplicação acadêmica
 package modelo;
 
 public class Aluno {
