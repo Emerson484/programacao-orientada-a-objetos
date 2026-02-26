@@ -1,3 +1,4 @@
+//Vamos persistir os dados de Produto.
 package pratica_11.modelo;
 
 //importacoes 
