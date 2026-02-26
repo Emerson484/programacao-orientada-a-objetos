@@ -1,4 +1,9 @@
-package pratica7.controle;
+/*
+ - Uma livraria vende diferentes tipos de produtos e quer um sistema para controlar
+suas vendas. Todo produto tem um código, um nome e um preço de custo. Um
+produto pode ser do tipo livro ou papelaria. Para os produtos do tipo papelaria, é
+importante saber a descrição e o fabricante. Para cada livro, é importante armazenar
+o nome do autor e editora.package pratica7.controle;*/
 
 //importacoes
 import java.util.ArrayList;
