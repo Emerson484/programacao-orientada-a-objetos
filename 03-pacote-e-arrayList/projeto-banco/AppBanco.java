@@ -1,3 +1,4 @@
+//objetivo: refatorar o projeto Banco com arrayList
 //pacote
 package visao;
 
